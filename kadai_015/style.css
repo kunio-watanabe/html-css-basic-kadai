@@ -1,10 +1,13 @@
 body {
     font-family: "Arial", "Meiryo", sans-serif;
-    
 }
 html {
     font-size: 20Px;
+
+}
+body {
     text-align: center;
+
 }
 .pink {
     color: rgb(255, 192, 203);
@@ -18,7 +21,7 @@ html {
     font-weight: 400;
     font-style: normal;
     font-size: 40px;
-    letter-spacing: 1.5em;
+    letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px gray;
     text-decoration: underline;
   }
